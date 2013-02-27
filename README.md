@@ -9,12 +9,14 @@ PC: C:UsersYourUsernameAppDataLocalGoogleChromeUser DataDefaultUser StyleSheetsC
 
 Ubuntu (Chromium): ~/.config/chromium/Default/User StyleSheets/Custom.css
 
-## Screenshots
+## Preview
 
-![Inspector](http://static.grayghostvisuals.com/github/Breeze/BreezeScreenshot.png)
+![Inspector](http://i.imgur.com/YFsbMiz.png)
 
 
 ### Credits
 Toolbar styles based onDennis Gaebel's [Caerulean](https://github.com/grayghostvisuals/caerulean) theme, [http://grayghostvisuals.com/](http://grayghostvisuals.com/)
+
 Icon Templates by Uicons created by Kenny Williams [http://www.hirekenny.com.au](http://www.hirekenny.com.au)
+
 Uicons are Royalty free icons and are licensed under the Creative Commons License 3.0.
